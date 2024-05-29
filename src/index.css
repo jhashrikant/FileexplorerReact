@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.add__folder{
+  cursor: pointer;
+}
+
+
+.add__file{
+  cursor: pointer;
+}
